@@ -1,5 +1,6 @@
 # Configure Azure AD as an OIDC identity provider in ARO #
 
+Author: Aneesh AR
 *30 June 2022*
 
 ## Prerequisites
